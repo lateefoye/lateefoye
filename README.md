@@ -1,6 +1,6 @@
 ### Hello World!👋
 
-- 🔭 I’m currently working on Java projects
+- 🔭 I’m currently working on adding a Factorial Calculator feature to my basic calculator project
 - 🌱 I’m currently learning Python and on an Advanced Java course
 - 👯 I’m looking to collaborate with a team on a project
 - 🤔 I’m looking for help in obtaining an internship
