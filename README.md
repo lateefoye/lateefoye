@@ -1,7 +1,7 @@
 ### Hello World!👋
 
-- 🔭 I’m currently working on projects
-- 🌱 I’m currently learning Java and Python
+- 🔭 I’m currently working on Java projects
+- 🌱 I’m currently learning Python and on an Advanced Java course
 - 👯 I’m looking to collaborate with a team on a project
 - 🤔 I’m looking for help in obtaining an internship
 - 💬 Ask me about soft skills
